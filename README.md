@@ -99,7 +99,7 @@ Recall médio: 0.84
 
 <ul>
 <li>Desbalanceamento de Dados: O conjunto de dados é altamente desbalanceado, o que torna a detecção de fraudes um desafio.</li>
-<li>>Eficácia do Isolation Forest: O modelo Isolation Forest mostrou-se eficaz na identificação de fraudes, embora a precisão e o recall devam ser monitorados.</li>
+<li>Eficácia do Isolation Forest: O modelo Isolation Forest mostrou-se eficaz na identificação de fraudes, embora a precisão e o recall devam ser monitorados.</li>
 <li>Uso de SMOTE: O uso de SMOTE ajudou a melhorar o desempenho do modelo Random Forest, aumentando a representação da classe minoritária.</li>
 </ul>
 

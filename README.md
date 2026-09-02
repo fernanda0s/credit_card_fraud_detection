@@ -22,9 +22,7 @@ O código começa importando as bibliotecas necessárias:
 <img width="639" alt="Screenshot_96" src="https://github.com/user-attachments/assets/3f0e005b-8939-47f4-9643-f74ee88b9cd1" />
 
 
-
 O dataset é carregado e informações básicas são exibidas:
-
 
 <img width="600" alt="Screenshot_97" src="https://github.com/user-attachments/assets/8c8b620d-0a77-43e6-b713-3facab84ff7c" />
 

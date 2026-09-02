@@ -1,20 +1,11 @@
-# Portfólio de análise, contrução de painéis e transformação de dados - Power BI
+# Projeto: Detecção de Anomalias em Transações em Python
+Prof. Isadora Ferrão
 
-Objetivo
-Este portfólio tem como objetivo demonstrar habilidades como:
-Transformação de dados, utilizando Power Query, linguagens DAX, SQL e Python;
-Visualização de dados, através do design flúido, limpo e de fácil compreensão dos dashboards;
-Análise de negócio, através de KPIs, métricas e análises personalizadas para cada cliente.
+## Credit Card Fraud Detection
+### Problema: É importante que as empresas de cartão de crédito sejam capazes de reconhecer transações fraudulentas de cartão de crédito para que os clientes não sejam cobrados por itens que não compraram. Fraude é qualquer ação deliberada de enganar ou ludibriar em benefício próprio (ex.: uso indevido de cartão de crédito).
+### Solução: A análise de dados ajuda a combater fraudes ao identificar comportamentos atípicos (outliers) em grandes volumes de transações. Por meio de técnicas estatísticas e de aprendizado de máquina, é possível detectar padrões suspeitos e alertar sobre possíveis fraudes de forma mais rápida e precisa, reduzindo perdas financeiras e melhorando a segurança.
 
-Estrutura
-Cada projeto contém:
-Prints, video e exemplos do dashboard criado
-Documentação, fonte de dados, regras aplciadas às medidas realizadas e análises;
+### Disponível em: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-Projetos criados
-Acompanhamento de Planos de Ação - Dashboard para acompanhamento dos planos gerados a partir de auditorias, avaliações de risco e mudança dentro de uma instituição.
+O conjunto de dados contém transações feitas por cartões de crédito em setembro de 2013 por titulares de cartão europeus. Este conjunto de dados apresenta transações que ocorreram em dois dias, onde temos 492 fraudes de 284.807 transações. O conjunto de dados é altamente desbalanceado, a classe positiva (fraudes) é responsável por 0,172% de todas as transações.
 
-Acesse a documentação e deixe seu feedback !
-
-Informações de contato
-Linkedln:
